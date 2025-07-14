@@ -5,7 +5,7 @@ The system can be trained on a dataset of face images and then used to recognize
 
 ![Recognition-application](Recognition_result.png)
 
-Features
+## Features
 📁 Simple directory-based dataset organization
 
 🧠 K-Nearest Neighbors classifier for accurate recognition
@@ -18,7 +18,7 @@ Features
 
 
 
-Requirements
+## Requirements
 Python 3.6+
 
 OpenCV
